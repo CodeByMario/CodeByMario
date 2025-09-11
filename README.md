@@ -24,10 +24,23 @@
 
 ---
 
-## 🚀 Projects
+## 📜 My GitHub Journey
+> From my very first commit to my latest project — here’s the timeline of my growth.
+
+| Year | Milestone |
+|------|-----------|
+| **2021** | Joined GitHub, started experimenting with Python scripts and basic web projects. |
+| **2022** | Built small Flask apps, contributed to open-source repos, explored IoT with Arduino. |
+| **2023** | Created **AbhiHub** – Academic Resource Sharing Platform (Flask, Heroku, Firebase, SEO). |
+| **2024** | Infosys Springboard Internship – Developed **MelanoAI** (CNN for melanoma detection). |
+| **2025** | Led **Period Tracker App** project at Kshitij Foundation (multilingual PWA, Supabase). Also built **AI-powered Resume Ranking System** at Edunet. |
+
+---
+
+## 🚀 Featured Projects
 - **[AbhiHub](https://abhi-hub-06bba7f4101d.herokuapp.com/)** – Academic Resource Sharing Platform (Flask, Heroku, Firebase, SEO)  
 - **[Period Tracker App](https://play.google.com/store/apps/details?id=com.herokuapp.the_clue_aaa704cbea84.twa)** – Multilingual PWA for menstrual health awareness (Flask, Supabase, Google Play Store)  
-- **[MelanoAI](#)** – CNN-based Skin Cancer Detection using dermoscopic images (Infosys Internship)  
+- **MelanoAI** – CNN-based Skin Cancer Detection using dermoscopic images (Infosys Internship)  
 - **[IoT Home Automation](https://www.linkedin.com/posts/mrabhijeetshende_homeautomation-iot-ghraisoni-activity-7060138151826067456-KOqF)** – IoT-based automation project (Arduino UNO)  
 
 ---
@@ -47,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Since Day 1)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeByMario&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMario&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
@@ -57,7 +70,7 @@
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMario&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMario&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
