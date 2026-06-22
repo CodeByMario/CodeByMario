@@ -1,6 +1,6 @@
 # Hi, I'm Abhijeet Shende
 
-### Software Engineer • Product Builder • Creator of AbhiHub
+### Software Engineer | Creator of AbhiHub | B.Tech AI Graduate
 
 <p align="center">
 I enjoy turning messy problems into usable software.
@@ -22,33 +22,75 @@ I enjoy turning messy problems into usable software.
 
 ## About Me
 
-I am a B.Tech Artificial Intelligence graduate from G. H. Raisoni College of Engineering, Nagpur (CGPA: **9.10**).
+B.Tech Artificial Intelligence graduate from G. H. Raisoni College of Engineering, Nagpur (**CGPA: 9.10**).
 
-My primary interest lies at the intersection of software engineering, product development, and applied AI.
+My interests lie at the intersection of software engineering, product development, search systems, and applied AI.
 
-Rather than building projects for demonstrations, I enjoy building systems that solve practical problems, serve real users, and continue improving after launch.
-
----
-
-## Snapshot
-
-| Metric                      | Value               |
-| --------------------------- | ------------------- |
-| Graduation Year             | 2026                |
-| CGPA                        | 9.10                |
-| Registered Users on AbhiHub | 290+                |
-| Academic Resources Indexed  | 4,300+              |
-| Student Contributors        | 25+                 |
-| Development Start (AbhiHub) | Dec 2025            |
-| Current Status              | Actively Maintained |
+I enjoy building systems that solve practical problems, serve real users, and continue evolving after launch.
 
 ---
 
-# Flagship Project
+# 📸 Featured Product Showcase
 
-## AbhiHub
+<!-- Add AbhiHub Hero Screenshot Here -->
 
-A community-driven academic resource platform designed to help students discover, organize, and preserve educational resources.
+<!-- images/abhihub-home.png -->
+
+<p align="center">
+  <img src="./images/abhihub-home.png" width="900"/>
+</p>
+
+<p align="center">
+<b>AbhiHub Home Experience</b>
+</p>
+
+<br>
+
+<!-- Add Search Screenshot Here -->
+
+<!-- images/abhihub-search.png -->
+
+<p align="center">
+  <img src="./images/abhihub-search.png" width="900"/>
+</p>
+
+<p align="center">
+<b>Search & Resource Discovery System</b>
+</p>
+
+<br>
+
+<!-- Add Upload/Contribution Screenshot Here -->
+
+<!-- images/abhihub-upload.png -->
+
+<p align="center">
+  <img src="./images/abhihub-upload.png" width="900"/>
+</p>
+
+<p align="center">
+<b>Community Contribution Workflow</b>
+</p>
+
+---
+
+## 📊 Snapshot
+
+| Metric                     | Value               |
+| -------------------------- | ------------------- |
+| Graduation Year            | 2026                |
+| CGPA                       | 9.10                |
+| AbhiHub Users              | 290+                |
+| Academic Resources Indexed | 4,300+              |
+| Student Contributors       | 25+                 |
+| Development Started        | Dec 2025            |
+| Status                     | Actively Maintained |
+
+---
+
+# 🚀 AbhiHub
+
+A community-driven academic resource platform designed to help students discover, organize, and share educational resources.
 
 ### Impact
 
@@ -56,27 +98,44 @@ A community-driven academic resource platform designed to help students discover
 * 4,050+ previous year papers
 * 250+ notes and practical files
 * 25+ student contributors
-* Active deployment and maintenance since December 2025
+* Active development and maintenance since December 2025
+
+### Links
+
+🌐 Live Platform
+https://app.abhihub.run.place
+
+📱 Android App
+https://play.google.com/store/apps/details?id=com.abhihub.premium
+
+📢 Instagram
+https://www.instagram.com/_abhihub_
+
+💼 LinkedIn
+https://www.linkedin.com/company/abhihub
+
+📨 Telegram Community
+https://t.me/abhi_hub
 
 ### Key Features
 
-* Intelligent search and filtering
-* Resource categorization and metadata management
+* Intelligent resource discovery
+* Metadata-based search
+* Academic content organization
 * Contributor recognition system
 * Progressive Web Application (PWA)
 * Android application support
-* Firebase-based authentication
-* Community-driven content contribution
+* Firebase authentication
 
-### What I Built
+### My Contributions
 
-* Backend architecture
-* Search and ranking system
+* Product architecture
+* Backend development
+* Search system design
 * Database design
 * Authentication workflows
-* Deployment pipeline
+* Deployment & maintenance
 * Analytics integration
-* Resource management workflows
 * User onboarding improvements
 
 ---
@@ -85,169 +144,100 @@ A community-driven academic resource platform designed to help students discover
 
 ### Search & Retrieval Systems
 
-Designed resource discovery workflows that help students locate academic materials efficiently using structured metadata and ranking logic.
+Designed metadata-driven resource discovery workflows to improve academic content search and accessibility.
 
 ### Product Development
 
-Managed the complete lifecycle of a production application:
+Managed the complete lifecycle of a production application, from development and deployment to user feedback and feature iteration.
 
-* Development
-* Deployment
-* User feedback
-* Feature iteration
-* Performance improvements
-* Community adoption
+### Authentication & Access Control
 
-### System Design
+Implemented Firebase-based authentication and role-based access systems.
 
-Worked on:
+### Progressive Web Applications
 
-* Authentication systems
-* Cloud-hosted applications
-* Resource storage strategies
-* Database optimization
-* Progressive Web Apps
+Built installable web applications with mobile-first and offline-friendly experiences.
 
 ---
 
 # Featured Projects
 
-## AbhiHub
+## 🩺 MelanoAI
 
-Community-driven academic resource platform focused on educational content discovery and sharing.
-
-**Tech Stack:** Flask, Firebase, JavaScript, HTML, CSS, PWA
-
----
-
-## MelanoAI
-
-Developed during the Infosys Springboard Internship.
-
-A deep learning solution for melanoma detection using dermoscopic images and Convolutional Neural Networks.
+Deep learning-based melanoma detection system using Convolutional Neural Networks.
 
 **Tech Stack:** Python, TensorFlow, CNN
 
 ---
 
-## IoT Home Automation
+## 🌸 Period Tracker Application
 
-Designed an Arduino-based home automation system capable of controlling household devices through connected hardware components.
-
-**Tech Stack:** Arduino, Embedded Systems, IoT
-
----
-
-## Period Tracker Application
-
-Developed and maintained a multilingual health-awareness platform for Kshitij Foundation.
-
-Worked as the technical lead responsible for development, maintenance, and deployment coordination across a team of 7–8 members.
+Multilingual health-awareness platform developed for Kshitij Foundation.
 
 **Tech Stack:** Flask, Supabase, PWA
 
 ---
 
-## Resume Ranking System
+## 🏠 IoT Home Automation
 
-Built an AI-powered candidate ranking solution using Natural Language Processing techniques.
+Arduino-based smart home automation system.
+
+**Tech Stack:** Arduino, Embedded Systems, IoT
+
+---
+
+## 📄 AI Resume Ranking System
+
+Machine learning solution for automated candidate ranking.
 
 **Tech Stack:** Python, NLP, Machine Learning
 
 ---
 
-# Professional Experience
+# Experience
 
-## Technical Lead
+## Technical Lead — Kshitij Foundation
 
-Kshitij Foundation
-
-* Led technical development activities for the Period Tracker Application
-* Coordinated with a team of 7–8 members
-* Managed deployment, maintenance, and feature implementation
-* Supported multilingual accessibility initiatives
+* Led technical development of the Period Tracker Application
+* Collaborated with a team of 7–8 members
+* Managed maintenance and deployment activities
 
 ---
 
-## AI/ML Intern
+## AI/ML Intern — Infosys Springboard
 
-Infosys Springboard
-
-* Built MelanoAI for melanoma classification
-* Worked with medical image datasets
-* Applied deep learning techniques to real-world healthcare problems
+* Developed MelanoAI for melanoma detection
+* Applied deep learning techniques to healthcare datasets
 
 ---
 
-## Machine Learning Intern
+## Machine Learning Intern — Edunet Foundation
 
-Edunet Foundation
-
-* Developed an AI-powered Resume Ranking System
+* Built an AI-powered Resume Ranking System
 * Applied NLP techniques for candidate evaluation
-* Built automated ranking workflows
 
 ---
 
-# Technology Stack
-
-### Languages
+# Tech Stack
 
 Python • JavaScript • SQL
 
-### Backend
-
 Flask • Django • REST APIs
-
-### Frontend
-
-HTML • CSS • Bootstrap • Progressive Web Apps
-
-### Databases
 
 Firebase • PostgreSQL • Supabase
 
-### AI & Machine Learning
+Machine Learning • Deep Learning • NLP • Computer Vision
 
-Machine Learning
-
-Deep Learning
-
-Computer Vision
-
-Natural Language Processing
-
-### Tools & Platforms
-
-Git
-
-GitHub
-
-Linux
-
-Heroku
-
-VS Code
+Git • GitHub • Linux • Heroku
 
 ---
 
-# What I Value
-
-* Building products people actually use
-* Learning through execution
-* Solving practical problems
-* Continuous improvement
-* Community-driven technology
-
----
-
-## Current Focus
+# Currently Building
 
 * Scaling AbhiHub
-* Search and retrieval systems
-* Applied Artificial Intelligence
-* Full-stack product development
-* Software engineering best practices
+* Search & Retrieval Systems
+* Applied AI Solutions
+* Full-Stack Applications
 
 ---
 
