@@ -37,11 +37,11 @@ I enjoy building systems that solve practical problems, serve real users, and co
 <!-- images/abhihub-home.png -->
 
 <p align="center">
-  <img src="./images/abhihub-home.png" width="900"/>
+  <img src="./images/architecture-diagram.png" width="900"/>
 </p>
 
 <p align="center">
-<b>AbhiHub Home Experience</b>
+<b>AbhiHub Architecture Diagram</b>
 </p>
 
 <br>
